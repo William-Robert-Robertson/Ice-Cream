@@ -24,3 +24,10 @@ Wine (sweet)\
 Kirsch\
 Perhaps optionally some freshly ground cinamon and sugar or some freshly grated nutmeg on top at end
 
+### Tomato
+Tomato juice\
+Optionally basil\
+Good quality olive oil\
+Good quality cucumber\
+Ingredients as for gazpacho soup...
+
