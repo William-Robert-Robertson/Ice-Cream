@@ -48,3 +48,6 @@ Freshly ground papper\
 Ingredients as for gazpacho soup...\
 Perhaps freshly grated parmesan on top
 
+### Put the whole  ice cream machine in the fridge to speed it up.
+
+
