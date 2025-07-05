@@ -27,6 +27,7 @@ Perhaps optionally some freshly ground cinamon and sugar or some freshly grated 
 ### Tomato
 Tomato juice\
 Optionally basil\
+Balsamic venegar\
 Good quality olive oil\
 Good quality cucumber\
 Ingredients as for gazpacho soup...
