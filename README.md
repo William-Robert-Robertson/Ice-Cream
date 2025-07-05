@@ -20,12 +20,14 @@ Strawberries ground up with hand blender (whole they jam the ice cream machine.)
 
 ### Stracciatella
 Milk\
+Vanilla\
 Chocolate
 
 ### Sabayon cream
 Under development...\
-Egg yolk\to
+Egg yolk\
 Wine (sweet)\
+Vanilla\
 Kirsch\
 Perhaps optionally some freshly ground cinnamon and sugar or some freshly grated nutmeg on top at end
 
