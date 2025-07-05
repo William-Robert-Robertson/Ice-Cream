@@ -13,13 +13,16 @@ Yogurt\
 Frozen raspberries\
 Sugar
 
+### Red Berry & Yogurt
+As above but Lidl forzen mixed berries\
+
 ### Stracciatella
 Milk\
 Chocolate
 
 ### Sabayon cream
 Under development...\
-Egg yolk\
+Egg yolk\to
 Wine (sweet)\
 Kirsch\
 Perhaps optionally some freshly ground cinnamon and sugar or some freshly grated nutmeg on top at end
@@ -28,7 +31,7 @@ Perhaps optionally some freshly ground cinnamon and sugar or some freshly grated
 Fine rolled oats\
 Honey or maple syrup\
 On greasproof paper\
-Fan oven at c. 120 °C
+Fan oven at c. 120 °C until golden brown then turn heat off but leave fan on for a while while it cools
 
 ### Tomato
 Tomato juice\
@@ -36,5 +39,7 @@ Optionally basil\
 Balsamic vinegar\
 Good quality olive oil\
 Good quality cucumber\
+Garlic\
+Freshly ground papper\
 Ingredients as for gazpacho soup...
 
