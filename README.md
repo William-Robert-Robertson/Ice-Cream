@@ -5,7 +5,8 @@ Open Source Ice Cream Recipes
 Yoghurt\
 Banana\
 Honey or Sugar\
-Optionally chocolate
+Optionally chocolate\
+Optionally cocoa powder on top at end
 
 ### Raspberry & Yoghurt
 Yoghurt\
@@ -17,7 +18,9 @@ Milk\
 Chocolate
 
 ### Sabayon cream
-Under development...
+Under development...\
 Egg yolk\
 Wine (sweet)\
-Kirsch
+Kirsch\
+Perhaps optionally some freshly ground cinamon and sugar or some freshly grated nutmeg on top at end
+
