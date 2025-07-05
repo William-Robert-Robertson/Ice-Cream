@@ -43,5 +43,6 @@ Good quality olive oil\
 Good quality cucumber\
 Garlic\
 Freshly ground papper\
-Ingredients as for gazpacho soup...
+Ingredients as for gazpacho soup...\
+Perhaps freshly grated parmesan on top
 
