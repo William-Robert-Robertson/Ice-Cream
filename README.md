@@ -2,16 +2,22 @@
 Open Source Ice Cream Recipes
 
 ### Banana & Yoghurt
-Yoghurt
-Banana
-Honey or Sugar
+Yoghurt\
+Banana\
+Honey or Sugar\
 Optionally chocolate
 
 ### Raspberry & Yoghurt
-Yoghurt
-Frozen raspberries
+Yoghurt\
+Frozen rspberries\
 Sugar
 
 ### Stracciatella
-Milk
-Chocolate
+Milk\
+Chocolate\
+
+### Sabayon cream
+Under development...
+Egg yolk\
+Wine (sweet)\
+Kirsch
