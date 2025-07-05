@@ -14,7 +14,9 @@ Frozen raspberries\
 Sugar
 
 ### Red Berry & Yogurt
-As above but Lidl forzen mixed berries\
+Low fat yoghurt\
+Lidl forzen mixed berries (excluding the strawberries)\
+Strawberries ground up with hand blender (whole they jam the ice cream machine.)
 
 ### Stracciatella
 Milk\
