@@ -14,7 +14,7 @@ Sugar
 
 ### Stracciatella
 Milk\
-Chocolate\
+Chocolate
 
 ### Sabayon cream
 Under development...
