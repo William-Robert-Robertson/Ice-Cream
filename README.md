@@ -23,11 +23,13 @@ Milk\
 Vanilla\
 Maple syrup\
 Chocolate drops\
-Note: the combination of vanilla and maple syrup make it!
+Note: the combination of vanilla and maple syrup make it!\
+If chocolate drops are added solid they stay solid.
 
 ### Chocolate and Banana
 As above with banana\
-Blending milk from the fridge and banana at room temperature then drizzling in chocolate doesn't work - the mixture is too warm for chocolate to form Stracciatella.
+Mixture of milk chocolate and dark chocolate drops - molten\
+Blending milk from the fridge and banana at room temperature then drizzling in molten chocolate doesn't work - the mixture is too warm for chocolate to form Stracciatella - cooling it then making the ice cream the ice cream still seems to go brown - try adding chocolate later on - more development needed.
 
 ### Sabayon cream
 Under development...\
