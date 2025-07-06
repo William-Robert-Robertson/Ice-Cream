@@ -14,8 +14,8 @@ Frozen raspberries\
 Sugar
 
 ### Red Berry & Yogurt
-Low fat yoghurt\
-Lidl forzen mixed berries (excluding the strawberries)\
+Low fat yogurt\
+Lidl frozen mixed berries (excluding the strawberries)\
 Strawberries ground up with hand blender (whole they jam the ice cream machine.)
 
 ### Stracciatella
@@ -23,7 +23,10 @@ Milk\
 Vanilla\
 Maple syrup\
 Chocolate\
-Note: the combination of vanila and maple syrup make it!
+Note: the combination of vanilla and maple syrup make it!
+
+### Chocolare and Banana
+As above with banana
 
 ### Sabayon cream
 Under development...\
@@ -36,7 +39,7 @@ Perhaps optionally some freshly ground cinnamon and sugar or some freshly grated
 ### Crunchy Stuff On Top
 Fine rolled oats\
 Honey or maple syrup\
-On greasproof paper\
+On greaseproof paper\
 Fan oven at c. 120 °C until golden brown then turn heat off but leave fan on for a while while it cools
 
 ### Tomato
@@ -46,7 +49,7 @@ Balsamic vinegar\
 Good quality olive oil\
 Good quality cucumber\
 Garlic\
-Freshly ground papper\
+Freshly ground pepper\
 Ingredients as for gazpacho soup...\
 Perhaps freshly grated parmesan on top
 
