@@ -29,7 +29,7 @@ If chocolate drops are added solid they stay solid.
 ### Chocolate and Banana
 As above with banana\
 Mixture of milk chocolate and dark chocolate drops - molten\
-Blending milk from the fridge and banana at room temperature then drizzling in molten chocolate doesn't work - the mixture is too warm for chocolate to form Stracciatella - cooling it then making the ice cream the ice cream still seems to go brown - try adding chocolate later on - more development needed.
+Blending milk from the fridge and banana at room temperature then drizzling in molten chocolate doesn't work - the mixture is too warm for chocolate to form Stracciatella - cooling it then making the ice cream the ice cream still seems to go brown - a lot of the chocolate also seems to sink to the bottom - try adding chocolate later on - more development needed.
 
 ### Sabayon cream
 Under development...\
