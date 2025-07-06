@@ -22,11 +22,12 @@ Strawberries ground up with hand blender (whole they jam the ice cream machine.)
 Milk\
 Vanilla\
 Maple syrup\
-Chocolate\
+Chocolate drops\
 Note: the combination of vanilla and maple syrup make it!
 
-### Chocolare and Banana
-As above with banana
+### Chocolate and Banana
+As above with banana\
+Blending milk from the fridge and banana at room temperature then drizzling in chocolate doesn't work - the mixture is too warm for chocolate to form Stracciatella.
 
 ### Sabayon cream
 Under development...\
