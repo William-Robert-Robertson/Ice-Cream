@@ -51,7 +51,11 @@ Good quality cucumber\
 Garlic\
 Freshly ground pepper\
 Ingredients as for gazpacho soup...\
-Perhaps freshly grated parmesan on top
+Perhaps freshly grated Parmesan on top
+
+### Crunchy Stuff For Tomato
+Fine rolled oats\
+Parmesan? Gruyère? Nutmeg?
 
 ### Put the whole  ice cream machine in the fridge to speed it up.
 
