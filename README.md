@@ -21,7 +21,9 @@ Strawberries ground up with hand blender (whole they jam the ice cream machine.)
 ### Stracciatella
 Milk\
 Vanilla\
-Chocolate
+Maple syrup\
+Chocolate\
+Note: the combination of vanila and maple syrup make it!
 
 ### Sabayon cream
 Under development...\
