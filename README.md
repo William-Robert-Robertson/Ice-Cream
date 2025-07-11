@@ -19,6 +19,7 @@ Lidl frozen mixed berries (excluding the strawberries)\
 Strawberries ground up with hand blender (whole they jam the ice cream machine.)
 
 ### Stracciatella
+
 Milk\
 Vanilla\
 Maple syrup\
@@ -33,6 +34,9 @@ Mixture of milk chocolate and dark chocolate drops - molten\
 Blending milk from the fridge and banana at room temperature then drizzling in molten chocolate doesn't work - the mixture is too warm for chocolate to form Stracciatella - cooling it then making the ice cream the ice cream still seems to go brown - a lot of the chocolate also seems to sink to the bottom - try adding chocolate later on - more development needed.
 
 ### Sabayon cream
+
+Seperate egg whites and yolks the day before and use the whites to make meringues
+
 Under development...\
 Egg yolk\
 Wine (sweet)\
@@ -60,6 +64,12 @@ Perhaps freshly grated Parmesan on top
 ### Crunchy Stuff For Tomato
 Fine rolled oats\
 Parmesan? Gruyère? Nutmeg?
+
+### Marroni Sweet chestnut
+Milk\
+Maple syrup\
+Marroni - ground up with a little mik with hand blender\
+Maybe a little vanilla?
 
 ### Put the whole  ice cream machine in the fridge to speed it up.
 
