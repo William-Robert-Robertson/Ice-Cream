@@ -75,6 +75,11 @@ Freshly ground pepper\
 Ingredients as for gazpacho soup...\
 Perhaps freshly grated Parmesan on top
 
+### Tomato
+Tomato juice\
+Rosemary\
+Olive oil.
+
 ### Crunchy Stuff For Tomato
 Fine rolled oats\
 Parmesan? Gruyère? Nutmeg?
@@ -84,6 +89,10 @@ Milk\
 Maple syrup\
 Marroni - ground up with a little mik with hand blender\
 Maybe a little vanilla?
+
+### Lemon Meringue
+Seperate eggs the day before, make meringue with egg whites.\
+Sabayon, lemon rind, \
 
 ### Put the whole  ice cream machine in the fridge to speed it up.
 
