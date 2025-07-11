@@ -75,6 +75,8 @@ Freshly ground pepper\
 Ingredients as for gazpacho soup...\
 Perhaps freshly grated Parmesan on top
 
+Serve with Croûton
+
 ### Tomato
 Tomato juice\
 Rosemary\
