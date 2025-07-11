@@ -47,7 +47,7 @@ Banaba\
 Some yoghurt (not too much)\
 Good quality Cocoa powder.
 
-### Sabayon cream
+### Sabayon Cream
 
 Seperate egg whites and yolks the day before and use the whites to make meringues
 
