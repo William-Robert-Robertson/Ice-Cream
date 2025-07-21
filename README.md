@@ -94,7 +94,14 @@ Maybe a little vanilla?
 
 ### Lemon Meringue
 Seperate eggs the day before, make meringue with egg whites.\
-Sabayon, lemon rind, \
+Sabayon, lemon rind,
+
+### Yogurt and Ginger
+Whole milk yoghurt\
+Candied ginger cutr into small slices\
+Honey\
+Perhaps siome grated fresh ginger`?
+Under development.
 
 ### Put the whole  ice cream machine in the fridge to speed it up.
 
