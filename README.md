@@ -98,9 +98,10 @@ Sabayon, lemon rind,
 
 ### Yogurt and Ginger
 Whole milk yoghurt\
-Candied ginger cutr into small slices\
+Candied ginger cut into thin slices - must be thin otherwise they become like lumps of toffee as they cool\
 Honey\
-Perhaps siome grated fresh ginger`?
+Perhaps some grated fresh ginger?\
+Couldn't seem to get the flavours to come together properly - banana adds some body\
 Under development.
 
 ### Put the whole  ice cream machine in the fridge to speed it up.
