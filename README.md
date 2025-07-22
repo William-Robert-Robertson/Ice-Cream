@@ -104,6 +104,13 @@ Perhaps some grated fresh ginger?\
 Couldn't seem to get the flavours to come together properly - banana adds some body\
 Under development.
 
-### Put the whole  ice cream machine in the fridge to speed it up.
+### Put the whole ice cream machine in the fridge to speed it up.
 
-
+###Birthday cake for KocH
+Meringue layer cake with possible fillings:\
+Cream and Fresh Radpberries\
+Cream and fresh strawbereries\
+Vanilla cream\
+Vanilla ice Cream and strawberry sorbet\
+Vanilla and sabayon cream\
+Tiramisu (coffee and vanila cream)
