@@ -113,4 +113,5 @@ Cream and fresh strawbereries\
 Vanilla cream\
 Vanilla ice Cream and strawberry sorbet\
 Vanilla and sabayon cream\
+Babanna with passion friut glaze\
 Tiramisu (coffee and vanila cream)
