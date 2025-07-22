@@ -106,7 +106,7 @@ Under development.
 
 ### Put the whole ice cream machine in the fridge to speed it up.
 
-###Birthday cake for KocH
+### Birthday cake for KocH
 Meringue layer cake with possible fillings:\
 Cream and Fresh Radpberries\
 Cream and fresh strawbereries\
